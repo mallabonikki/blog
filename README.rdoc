@@ -1,0 +1,9 @@
+Lesson Agenda:
+
+- Create new railsproject directory for all rails projects
+  - rails new blog
+- Bank the project to github
+  - add ssh to github to allow this IDE(cloud9)
+  - run cat ~/.ssh/id_rsa.pub from the terminal
+  - go to github then add ssh and paste this ssh data
+
